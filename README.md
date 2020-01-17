@@ -4,14 +4,14 @@
 
 *e.g.* **Sales**
 ```
-src/Pages/Sales/Sales/Sales.js
-src/Pages/Sales/Sales/Sales.test.js
+src/pages/sales/sales/Sales.js
+src/pages/sales/sales/Sales.test.js
 
-src/Pages/Sales/Sale/Sale.js
-src/Pages/Sales/Sale/Sale.test.js
+src/pages/sales/sales/Sale.js
+src/pages/sales/sales/Sale.test.js
 
-src/Pages/Sales/NewSale/NewSale.js
-src/Pages/Sales/NewSale/NewSale.test.js
+src/pages/sales/new_sale/NewSale.js
+src/pages/sales/new_sale/NewSale.test.js
 
 ```
  
